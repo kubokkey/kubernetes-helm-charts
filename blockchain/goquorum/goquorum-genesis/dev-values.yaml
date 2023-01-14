@@ -1,0 +1,5 @@
+rawGenesisConfig:
+  genesis:
+    config:
+      chainId: 1338
+      

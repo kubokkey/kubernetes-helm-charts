@@ -1,0 +1,4 @@
+node:
+  env: dev
+  goquorum:
+    networkId: 1338

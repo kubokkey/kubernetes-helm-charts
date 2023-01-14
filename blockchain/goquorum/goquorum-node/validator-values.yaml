@@ -1,0 +1,6 @@
+---
+node:
+  labels:
+    nodeType: validator
+    affinityGroup: validator
+  

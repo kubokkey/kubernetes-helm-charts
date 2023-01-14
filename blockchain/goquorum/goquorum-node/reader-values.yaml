@@ -1,0 +1,5 @@
+---
+node:
+  labels:
+    nodeType: reader
+    affinityGroup: reader_and_tx

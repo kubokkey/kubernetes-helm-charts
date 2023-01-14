@@ -1,0 +1,3 @@
+[submodule "blockchain/ConsenSys/quorum-kubernetes"]
+	path = blockchain/ConsenSys/quorum-kubernetes
+	url = https://github.com/ConsenSys/quorum-kubernetes.git
